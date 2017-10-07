@@ -6,6 +6,14 @@ After following Bitcoin and Cryptocurrencies for a few years, one thing became v
 
 # Steel Plates
 
+These steel plates can be ordered from [Lasergist](http://lasergist.com) using instructions below. 
+
+![](http://res.cloudinary.com/photozzap/image/upload/c_scale,w_1024/v1507346680/steelplates-crytocurrency/P1130023.jpg)
+
+![](http://res.cloudinary.com/photozzap/image/upload/c_scale,w_1024/v1507346679/steelplates-crytocurrency/P1130020.jpg)
+
+![](http://res.cloudinary.com/photozzap/image/upload/c_scale,w_1024/v1507346650/steelplates-crytocurrency/P1130018.jpg)
+
 # Alternatives
 ## Cryptosteel
 ## ColdTI
