@@ -74,6 +74,10 @@ Finally, you can order zip ties to prevent tampering with the seed.
 
 # Alternatives
 ## Cryptosteel
+https://cryptosteel.com/
 ## ColdTI
+https://coldti.com/
 ## Simple Metal plate
+Order a simple stainless steel or titanium plate from Ebay and punch it. It may be difficult to find the right size, but this is the cheapest option of them all.
 ## Piece of Paper
+You could just write your seed on a piece of paper, but a piece of paper is easy to misplace, the ink may fade, flood and fire are a concern. Hard to protect against tampering.
