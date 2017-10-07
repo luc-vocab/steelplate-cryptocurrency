@@ -60,6 +60,11 @@ The backplate, **backplate.ai** doesn't require any laser engraving and cost **$
 * Path Length: 730mm
 * Extras: Sandblasting
 
+### Additional Hardware
+
+If you ordered seperate plates and want to fasten them together, you may order the following screws:
+* [M4 x 0.7 mm Thread, 12 mm Long](https://www.mcmaster.com/#93070A103)
+* [M4 x 0.7 mm Thread Hex Nut](https://www.mcmaster.com/#98676A200)
 
 # Alternatives
 ## Cryptosteel
