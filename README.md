@@ -18,6 +18,21 @@ The plates can be ordered from [Lasergist](http://lasergist.com) using instructi
 
 ## Ordering Instructions
 
+Below is a description of the Illustrator files used to place the order from Lasergist.
+
+If you just want the passphrase plate with the 25 locations to stamp words, the two files below are all you need.
+* [numbers_plate_shape.ai](https://github.com/lucwastiaux/steelplate-cryptocurrency/raw/master/plates/numbers_plate_shape.ai)
+* [numbers_plate_laser.ai](https://github.com/lucwastiaux/steelplate-cryptocurrency/raw/master/plates/numbers_plate_laser.ai)
+
+If you want the front plate with your name on it, you need to submit these two as well (modify  	**frontplate_laser.ai** to include whatever text you want)
+* [frontplate_shape.ai](https://github.com/lucwastiaux/steelplate-cryptocurrency/raw/master/plates/frontplate_shape.ai)
+* [frontplate_laser.ai](https://github.com/lucwastiaux/steelplate-cryptocurrency/raw/master/plates/frontplate_laser.ai)
+
+This plate is just an empty plate with the cutouts for screws, but no laser engravings:
+* [backplate.ai](https://github.com/lucwastiaux/steelplate-cryptocurrency/raw/master/plates/backplate.ai)
+
+
+
 # Alternatives
 ## Cryptosteel
 ## ColdTI
