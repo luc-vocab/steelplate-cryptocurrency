@@ -4,7 +4,9 @@ After following Bitcoin and Cryptocurrencies for a few years, one thing became v
 
 # Steel Plates
 
-These steel plates can be ordered from [Lasergist](http://lasergist.com) using instructions below. They are laser-cut from 3mm steel or any other thickness available on lasergist.
+These steel plates are designed to have a BIP39 24 word passphrase stamped onto them, using a letter punch kit, to allow recovery of crypto currency private keys. Whether for use with a software wallet, or a hardware wallet like the Trezor, having the recovery passphrase stamped onto corrosion-proof and fire-proof metal plates minimizes the risk of loss of private keys.
+
+The plates can be ordered from [Lasergist](http://lasergist.com) using instructions below. They are laser-cut from 3mm stainless steel or any other thickness available on lasergist.
 
 ![](http://res.cloudinary.com/photozzap/image/upload/c_scale,w_1024/v1507346680/steelplates-crytocurrency/P1130023.jpg)
 
