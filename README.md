@@ -66,6 +66,12 @@ If you ordered seperate plates and want to fasten them together, you may order t
 * [M4 x 0.7 mm Thread, 12 mm Long](https://www.mcmaster.com/#93070A103)
 * [M4 x 0.7 mm Thread Hex Nut](https://www.mcmaster.com/#98676A200)
 
+The 12mm screws are sufficient to hold 3x 3mm plates. If you have less plates, less thick, or more (perhaps you have different seeds for different coins), then you'll need to get different screws.
+
+Then additionally, you'll want the letter punch kit. I ordered this one from ebay: [letter punch kit](http://www.ebay.com/itm/36pcs-4mm-New-Stamps-Letters-Alphabet-Numbers-Set-Punch-Steel-Metal-Tool-Craft/142456142451?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649). The design on the plate is designed to accomodate words at least 8 characters long, with each letter 4mm x 4mm.
+
+Finally, you can order zip ties to prevent tampering with the seed.
+
 # Alternatives
 ## Cryptosteel
 ## ColdTI
