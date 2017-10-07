@@ -4,7 +4,7 @@ After following Bitcoin and Cryptocurrencies for a few years, one thing became v
 
 # Steel Plates
 
-These steel plates can be ordered from [Lasergist](http://lasergist.com) using instructions below. 
+These steel plates can be ordered from [Lasergist](http://lasergist.com) using instructions below. They are laser-cut from 3mm steel or any other thickness available on lasergist.
 
 ![](http://res.cloudinary.com/photozzap/image/upload/c_scale,w_1024/v1507346680/steelplates-crytocurrency/P1130023.jpg)
 
@@ -12,7 +12,12 @@ These steel plates can be ordered from [Lasergist](http://lasergist.com) using i
 
 ![](http://res.cloudinary.com/photozzap/image/upload/c_scale,w_1024/v1507346650/steelplates-crytocurrency/P1130018.jpg)
 
+[More Photos](https://imgur.com/a/aznE4)
+
+## Ordering Instructions
+
 # Alternatives
 ## Cryptosteel
 ## ColdTI
 ## Simple Metal plate
+## Piece of Paper
