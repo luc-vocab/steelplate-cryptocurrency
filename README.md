@@ -16,9 +16,11 @@ The plates can be ordered from [Lasergist](http://lasergist.com) using instructi
 
 [More Photos](https://imgur.com/a/aznE4)
 
-## Ordering Instructions
+## Build Instructions
 
-Below is a description of the Illustrator files used to place the order from Lasergist.
+### Design Files 
+
+Below is a description of the Adobe Illustrator files used to place the order from Lasergist.
 
 If you just want the passphrase plate with the 25 locations to stamp words, the two files below are all you need.
 * [numbers_plate_shape.ai](https://github.com/lucwastiaux/steelplate-cryptocurrency/raw/master/plates/numbers_plate_shape.ai)
@@ -31,6 +33,32 @@ If you want the front plate with your name on it, you need to submit these two a
 This plate is just an empty plate with the cutouts for screws, but no laser engravings:
 * [backplate.ai](https://github.com/lucwastiaux/steelplate-cryptocurrency/raw/master/plates/backplate.ai)
 
+And finally this files contains all above designs on different layers, which may be useful if you wish to customize the design further.
+* [template_1.ai](https://github.com/lucwastiaux/steelplate-cryptocurrency/raw/master/plates/template_1.ai)
+
+### How to order from Lasergist.com
+
+Head over to [lasergist](http://lasergist.com), start a new design
+
+You will want to submit **numbers_plate_shape.ai** and **numbers_plate_laser.ai**, with the following options:
+* Material: AISI 316 - Brushed
+* Thickness: 3.0 mm
+* Height: 134mm
+* Width: 111mm
+* Path Length: 2967mm
+* Extras: Laser Engraving, Sandblasting
+
+You may change the thickness and material used, and uncheck sandblasting if you wish (selecting different options may change the price). But with the above settings, the price for that plate comes out to **USD $85.53**.
+
+Then depending on whether you want the other plates, repeat the process for **frontplate_shape.ai**, **frontplate_laser.ai** (of course you'll want to modify them first before submitting). With similar settings to above, it came out to **USD $59.57**
+
+The backplate, **backplate.ai** doesn't require any laser engraving and cost **$49.10** with the following settings:
+* Material: AISI 316 - Brushed
+* Thickness: 3.0 mm
+* Height: 134mm
+* Width: 111mm
+* Path Length: 730mm
+* Extras: Sandblasting
 
 
 # Alternatives
