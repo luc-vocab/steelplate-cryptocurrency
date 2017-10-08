@@ -72,6 +72,13 @@ Then additionally, you'll want the letter punch kit. I ordered this one from eba
 
 Finally, you can order zip ties to prevent tampering with the seed.
 
+### Any Questions ?
+Feel free to ask those on the [Reddit Thread](https://www.reddit.com/r/Bitcoin/comments/72zj1y/bip39_recovery_seed_stamped_on_stainless_steel/)
+
+Also if you like this design, feel free to send me a tip !
+* **BTC: 39YGSE5M9b9ch4Xe4WHKRxyXVSm1cXmXZW**
+* **Litecoin: MFzrhQuRMz7KL9kj8VVVVSMPcs17Yn7YFD**
+
 # Alternatives
 ## Cryptosteel
 [cryptosteel.com](https://cryptosteel.com/)
