@@ -22,6 +22,8 @@ This page is meant to list conventional best practices on hold to hold crypto-cu
 
 # Steel Plates
 
+Here is one way to stamp your recovery seed onto metal plates. Please scroll down to see alternative methods.
+
 These steel plates are designed to have a BIP39 24 (or 25) word passphrase stamped onto them, using a letter punch kit, to allow recovery of crypto currency private keys. Whether for use with a software wallet, or a hardware wallet like the Trezor, having the recovery passphrase stamped onto corrosion-proof and fire-proof metal plates minimizes the risk of loss of private keys.
 
 The plates can be ordered from [Lasergist](http://lasergist.com) using instructions below. They are laser-cut from 3mm stainless steel or any other thickness available on lasergist. Technically, the middle plate is the only one required and has laser markings indicating passphrase word ordering. By having additional plates cut, the passphrase can be hidden from sight and zipties can be added to prevent tampering. It also increases the weight of the whole assembly (close to 1kg with 3x 3mm plates) which helps prevent accidental misplacement.
@@ -100,11 +102,19 @@ Also if you like this design, feel free to send me a tip !
 # Alternatives
 ## Cryptosteel
 [cryptosteel.com](https://cryptosteel.com/)
+This is a reusable steel "container" which holds the first 4 letters of each of your BIP39 recovery seed words. It sounds like a great product, many people like it. The thing that worries me is that the words could be accidentally scrambled, which is impossible to do if the recovery seed has been stamped onto a plate of metal. Also, only including the first 4 letters, while sufficient according to the BIP39 spec (since the first 4 letters uniquely identifies the BIP39 word), seems like you would lose on some of the inherent "error correction" of having the full word written down (which would be more resilient against a single missing letter in my opinion).
+## Blockplate
+[Blockplate](https://www.blockplate.com/)
+Stainless steel plate which uses an innovative method to store the recovery seed onto a grid, without needing a letter punch kit, only a single basic punch.
 ## ColdTI
 [coldti.com](https://coldti.com/)
+Kickstarter for titanium plates onto which you stamp the BIP39 word numeric identifier. Doesn't look like they reached their funding goal.
 ## Simple Metal plate
 Order a simple stainless steel or titanium plate from Ebay and punch it. It may be difficult to find the right size, but this is the cheapest option of them all.
 ## Piece of Paper
 You could just write your seed on a piece of paper, but a piece of paper is easy to misplace, the ink may fade, flood and fire are a concern. Hard to protect against tampering.
+## Glacier Protocol
+[glacierprotocol.org](https://glacierprotocol.org/) ,  [Glacier protocol description](https://bitcoinexchangeguide.com/glacier-protocol/)
+This is a method for ultra-secure storage of bitcoin, potentially more secure than hardware wallets. But also much more complex and costly. I haven't attempted that method. It requires significant more investment in money and time.
 
 [![Analytics](https://ga-beacon.appspot.com/UA-107710882-1/home)](http://steelplate.cc)
