@@ -108,7 +108,7 @@ This is a reusable steel "container" which holds the first 4 letters of each of 
 Stainless steel plate which uses an innovative method to store the recovery seed onto a grid, without needing a letter punch kit, only a single basic punch.
 ## ColdTI
 [coldti.com](https://coldti.com/)
-Kickstarter for titanium plates onto which you stamp the BIP39 word numeric identifier. Doesn't look like they reached their funding goal.
+Kickstarter for titanium plates onto which you stamp the BIP39 word numeric identifier. Doesn't look like they reached their Kickstarter funding goal, but they are planning on selling on Amazon.
 ## Simple Metal plate
 Order a simple stainless steel or titanium plate from Ebay and punch it. It may be difficult to find the right size, but this is the cheapest option of them all.
 ## Piece of Paper
