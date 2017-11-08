@@ -112,7 +112,7 @@ Kickstarter for titanium plates onto which you stamp the BIP39 word numeric iden
 ## Simple Metal plate
 Order a simple stainless steel or titanium plate from Ebay and punch it. It may be difficult to find the right size, but this is the cheapest option of them all.
 ## Piece of Paper
-You could just write your seed on a piece of paper, but a piece of paper is easy to misplace, the ink may fade, flood and fire are a concern. Hard to protect against tampering.
+You could just write your seed on a piece of paper, but a piece of paper is easy to misplace, accidentally throw away, the ink may fade, flood and fire are a concern. Hard to protect against tampering. 
 ## Glacier Protocol
 [glacierprotocol.org](https://glacierprotocol.org/) ,  [Glacier protocol description](https://bitcoinexchangeguide.com/glacier-protocol/)
 This is a method for ultra-secure storage of bitcoin, potentially more secure than hardware wallets. But also much more complex and costly. I haven't attempted that method. It requires significant more investment in money and time.
