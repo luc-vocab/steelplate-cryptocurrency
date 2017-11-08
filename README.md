@@ -17,7 +17,7 @@ This page is meant to list conventional best practices on hold to hold crypto-cu
 * By default, the 24 word recovery seed is the only thing required to access private keys. On the Trezor, there is an option to have an additional password, but I didn't enable this option. I don't trust myself to remember this password 10 years down the line.
 * This means keeping your recovery seed plates out of sight is extremely important.
 * The current 304 stainless steel design has a melting point of 1400-1450 °C. This means it can survive even a sustained, severe house fire. [Reddit thread on metal survivability to house fires](https://www.reddit.com/r/metallurgy/comments/3vh4u4/best_metal_to_survive_a_house_fire/). I am in the process of securing Titanium Grade 2 versions which have an even higher melting point.
-* I another set of plates in a separate geographical area, in a trusted location, should I completely lose access to my main location. Some people suggested safety deposit boxes, though there's some debate about how safe those are.
+* I have another set of plates in a separate geographical area, in a trusted location, should I completely lose access to my main location. Some people suggested safety deposit boxes, though there's some debate about how safe those are.
 * With this redundant approach, the only risk I'm exposed to is theft of the plates by someone motivated enough (and knowledgeable enough) to extract the funds. Given the risk profile of my geographical location, I rate this probability as low. 
 
 # Steel Plates
