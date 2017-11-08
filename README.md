@@ -6,11 +6,18 @@ After following Bitcoin and Cryptocurrencies for a few years, one thing became v
 This page is meant to list conventional best practices on hold to hold crypto-currency in an ultra-secure manner. I'm open to feedback on this, please email [contact@bulletproofbitcoin.com](mailto:contact@bulletproofbitcoin.com)
 
 # Good practices
-* Holding your coins on an exchange, even a reputable one, even with 2FA enabled, is risky. Someone could impersonate you and steal your funds within minutes, while you are sleeping. The exchange could get hacked. You will not get your coins back if that happens.
-* The only sane way to store bitcoin / other crypto currencies is using a hardware wallet. Get yourself a [Trezor](https://trezor.io/) or [Nano Ledger S](https://www.ledgerwallet.com/)
-* During the setup of your hardware wallet, you'll be asked to write down a 24 word (BIP39) passphrase (the "recovery seed"). Properly securing that passphrase is the most important step of the setup. This is the passphrase that you will stamp onto a plate of metal to preserve it for decades to come. Losing or destroying your hardware wallet would not affect you in any way, as long as you safeguard that recovery seed, you will still have access to your funds.
-* You must be the only person to see your recovery seed. Do not ask someone else to stamp it into metal for you.
-* **NEVER** enter your recovery seed into any electronic device, file, even a password manager. The recovery seed will be shown to you ONCE on the screen of your hardware wallet. It should never be typed onto a desktop computer / smartphone as those environments are vulnerable to hacking by malware. You may write it down on paper temporarily in a private location, until you have a chance to secure the materials for stamping on metal.
+* Holding your coins on an exchange, even a reputable one, even with 2FA enabled, is **risky**. Someone could impersonate you and steal your funds within minutes, while you are sleeping. The exchange could get hacked. You will not get your coins back if that happens.
+* The only sane way to store bitcoin / other crypto currencies is using a **hardware wallet**. Get yourself a [Trezor](https://trezor.io/) or [Nano Ledger S](https://www.ledgerwallet.com/)
+* During the setup of your hardware wallet, you'll be asked to write down a **24 word (BIP39) passphrase (the "recovery seed")**. Properly securing that passphrase is the most important step of the setup. This is the passphrase that you will stamp onto a plate of metal to preserve it for decades to come. Losing or destroying your hardware wallet would not affect you in any way, as long as you safeguard that recovery seed, you will still have access to your funds.
+* You must be the **only person** to see your recovery seed. Do not ask someone else to stamp it into metal for you.
+* **NEVER** enter your recovery seed into any electronic device, file, website, or even a password manager. The recovery seed will be shown to you ONCE on the screen of your hardware wallet, but never leaves its memory. It should never be typed onto a desktop computer / smartphone as those environments are vulnerable to hacking by malware. You may write it down on paper temporarily in a private location, until you have a chance to secure the materials for stamping on metal.
+
+# Recovery Seed storage
+* By default, the 24 word recovery seed is the only thing required to access private keys. On the Trezor, there is an option to have an additional password, but I didn't enable this option. I don't trust myself to remember this password 10 years down the line.
+* This means keeping your recovery seed plates out of sight is extremely important.
+* The current 304 stainless steel design has a melting point of 1400-1450 °C. This means it can survive even a sustained, severe house fire. [Reddit thread on metal survivability to house fires](https://www.reddit.com/r/metallurgy/comments/3vh4u4/best_metal_to_survive_a_house_fire/). I am in the process of securing Titanium Grade 2 versions which have an even higher melting point.
+* I another set of plates in a separate geographical area, in a trusted location, should I completely lose access to my main location. Some people suggested safety deposit boxes, though there's some debate about how safe those are.
+* With this redundant approach, the only risk I'm exposed to is theft of the plates by someone motivated enough (and knowledgeable enough) to extract the funds. Given the risk profile of my geographical location, I rate this probability as low. 
 
 # Steel Plates
 
@@ -83,7 +90,7 @@ Then additionally, you'll want the letter punch kit. I ordered this one from eba
 Finally, you can order zip ties to prevent tampering with the seed.
 
 ### Any Questions ?
-Feel free to ask those on the [Reddit Thread](https://www.reddit.com/r/Bitcoin/comments/72zj1y/bip39_recovery_seed_stamped_on_stainless_steel/)
+Feel free to ask those on the [Reddit Thread](https://www.reddit.com/r/Bitcoin/comments/72zj1y/bip39_recovery_seed_stamped_on_stainless_steel/) or [contact@bulletproofbitcoin.com](mailto:contact@bulletproofbitcoin.com)
 
 Also if you like this design, feel free to send me a tip !
 * **BTC: 39YGSE5M9b9ch4Xe4WHKRxyXVSm1cXmXZW**
