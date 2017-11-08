@@ -1,6 +1,16 @@
 After following Bitcoin and Cryptocurrencies for a few years, one thing became very obvious to me. The number one risk when investing is not hacking or security flaws, it's **user error**. It's so incredibly easy to lose access to your private keys.
 * [Hard Drive lost with 7,500 bitcoins](https://www.theguardian.com/technology/2013/nov/27/hard-drive-bitcoin-landfill-site)
 * [Lost 900 Ether due to incorrect use of password manager](https://www.reddit.com/r/ethtrader/comments/4wpn3v/how_i_just_lost_900_eth_a_cautionary_tale/)
+* [I Forgot My PIN: An Epic Tale of Losing $30,000 in Bitcoin](https://www.wired.com/story/i-forgot-my-pin-an-epic-tale-of-losing-dollar30000-in-bitcoin/)
+
+This page is meant to list conventional best practices on hold to hold crypto-currency in an ultra-secure manner. I'm open to feedback on this, please email [contact@bulletproofbitcoin.com](mailto:contact@bulletproofbitcoin.com)
+
+# Good practices
+* Holding your coins on an exchange, even a reputable one, even with 2FA enabled, is risky. Someone could impersonate you and steal your funds within minutes, while you are sleeping. The exchange could get hacked. You will not get your coins back if that happens.
+* The only sane way to store bitcoin / other crypto currencies is using a hardware wallet. Get yourself a [Trezor](https://trezor.io/) or [Nano Ledger S](https://www.ledgerwallet.com/)
+* During the setup of your hardware wallet, you'll be asked to write down a 24 word (BIP39) passphrase (the "recovery seed"). Properly securing that passphrase is the most important step of the setup. This is the passphrase that you will stamp onto a plate of metal to preserve it for decades to come. Losing or destroying your hardware wallet would not affect you in any way, as long as you safeguard that recovery seed, you will still have access to your funds.
+* You must be the only person to see your recovery seed. Do not ask someone else to stamp it into metal for you.
+* **NEVER** enter your recovery seed into any electronic device, file, even a password manager. The recovery seed will be shown to you ONCE on the screen of your hardware wallet. It should never be typed onto a desktop computer / smartphone as those environments are vulnerable to hacking by malware. You may write it down on paper temporarily in a private location, until you have a chance to secure the materials for stamping on metal.
 
 # Steel Plates
 
