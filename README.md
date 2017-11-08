@@ -3,7 +3,7 @@ After following Bitcoin and Cryptocurrencies for a few years, one thing became v
 * [Lost 900 Ether due to incorrect use of password manager](https://www.reddit.com/r/ethtrader/comments/4wpn3v/how_i_just_lost_900_eth_a_cautionary_tale/)
 * [I Forgot My PIN: An Epic Tale of Losing $30,000 in Bitcoin](https://www.wired.com/story/i-forgot-my-pin-an-epic-tale-of-losing-dollar30000-in-bitcoin/)
 
-This page is meant to list conventional best practices on hold to hold crypto-currency in an ultra-secure manner. I'm open to feedback on this, please email [contact@bulletproofbitcoin.com](mailto:contact@bulletproofbitcoin.com)
+This page is meant to list conventional best practices on hold to hold crypto-currency in an secure manner. I'm open to feedback on this, please email [contact@bulletproofbitcoin.com](mailto:contact@bulletproofbitcoin.com)
 
 # Good practices
 * Holding your coins on an exchange, even a reputable one, even with 2FA enabled, is **risky**. Someone could impersonate you and steal your funds within minutes, while you are sleeping. The exchange could get hacked. You will not get your coins back if that happens.
