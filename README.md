@@ -1,12 +1,13 @@
-After following Bitcoin and Cryptocurrencies for a few years, one thing became very obvious to me. The number one risk when investing is not hacking or security flaws, it's **user error**. It's so incredibly easy to lose access to your private keys.
+After following Bitcoin and Cryptocurrencies for a few years, one thing became very obvious to me. The number one risk when investing is not hacking or security flaws, it's **user error**. It's so incredibly easy to lose access to your private keys. The hacking risk is still to be taken seriously and the measures describe here help mitigate that risk as well.
 * [Hard Drive lost with 7,500 bitcoins](https://www.theguardian.com/technology/2013/nov/27/hard-drive-bitcoin-landfill-site)
 * [Lost 900 Ether due to incorrect use of password manager](https://www.reddit.com/r/ethtrader/comments/4wpn3v/how_i_just_lost_900_eth_a_cautionary_tale/)
-* [I Forgot My PIN: An Epic Tale of Losing $30,000 in Bitcoin](https://www.wired.com/story/i-forgot-my-pin-an-epic-tale-of-losing-dollar30000-in-bitcoin/)
+* [I Forgot My PIN: An Epic Tale of Losing $30,000 in Bitcoin](https://www.wired.com/story/i-forgot-my-pin-an-epic-tale-of-losing-dollar30000-in-bitcoin/) 
+* [Bitcoin stolen from Blockchain.info wallet even with 2FA activated ](https://www.reddit.com/r/Bitcoin/comments/7cz9pu/bitcoin_stolen_from_blockchaininfo_wallet_even/)
 
 This page is meant to list conventional best practices on hold to hold crypto-currency in an secure manner. I'm open to feedback on this, please email [contact@bulletproofbitcoin.com](mailto:contact@bulletproofbitcoin.com)
 
 # Good practices
-* Holding your coins on an exchange, even a reputable one, even with 2FA enabled, is **risky**. Someone could impersonate you and steal your funds within minutes, while you are sleeping. The exchange could get hacked. You will not get your coins back if that happens.
+* Holding your coins on an exchange, even a reputable one, even with 2FA enabled, is **risky**. Someone could impersonate you and steal your funds within minutes, while you are sleeping. The exchange could get hacked. You will not get your coins back if that happens. [Centralised Exchanges Are Terrible At Holding Your Money](https://blog.localethereum.com/centralised-exchanges-are-terrible-at-holding-your-money/)
 * The only sane way to store bitcoin / other crypto currencies is using a **hardware wallet**. Get yourself a [Trezor](https://trezor.io/) or [Nano Ledger S](https://www.ledgerwallet.com/). A hardware wallet allows you securely receive and perform crypto-currency transactions even on a malware-infested computer.
 * During the setup of your hardware wallet, you'll be asked to write down a **24 word (BIP39) passphrase (the "recovery seed")**. Properly securing that passphrase is the most important step of the setup. This is the passphrase that you will stamp onto a plate of metal to preserve it for decades to come. Losing or destroying your hardware wallet would not affect you in any way, as long as you safeguard that recovery seed, you will still have access to your funds.
 * You must be the **only person** to see your recovery seed. Do not ask someone else to stamp it into metal for you.
@@ -15,7 +16,7 @@ This page is meant to list conventional best practices on hold to hold crypto-cu
 
 # Recovery Seed storage
 * By default, the 24 word recovery seed is the only thing required to access private keys. On the Trezor, there is an option to have an additional password, but I didn't enable this option. I don't trust myself to remember this password 10 years down the line.
-* This means keeping your recovery seed plates out of sight is extremely important.
+* This means keeping your recovery seed plates out of sight is extremely important. [Why I don't trust myself to use a passphrase on Trezor](https://www.reddit.com/r/TREZOR/comments/7dig01/help_urgently_requested_btc_seemingly_vanished/)
 * The current 304 stainless steel design has a melting point of 1400-1450 °C. This means it can survive even a sustained, severe house fire. [Reddit thread on metal survivability to house fires](https://www.reddit.com/r/metallurgy/comments/3vh4u4/best_metal_to_survive_a_house_fire/). I am in the process of securing Titanium Grade 2 versions which have an even higher melting point.
 * I have another set of plates in a separate geographical area, in a trusted location, should I completely lose access to my main location. Some people suggested safety deposit boxes, though there's some debate about how safe those are.
 * With this redundant approach, the only risk I'm exposed to is theft of the plates by someone motivated enough (and knowledgeable enough) to extract the funds. Given the risk profile of my geographical location, I rate this probability as low. 
