@@ -14,7 +14,7 @@ This page is meant to list conventional best practices on hold to hold crypto-cu
 * During the setup of your hardware wallet, you'll be asked to write down a **24 word (BIP39) passphrase (the "recovery seed")**. Properly securing that passphrase is the most important step of the setup. This is the passphrase that you will stamp onto a plate of metal to preserve it for decades to come. Losing or destroying your hardware wallet would not affect you in any way, as long as you safeguard that recovery seed, you will still have access to your funds.
 * You must be the **only person** to see your recovery seed. Do not ask someone else to stamp it into metal for you.
 * **NEVER** enter your recovery seed into any electronic device, file, website, or even a password manager. The recovery seed will be shown to you ONCE on the screen of your hardware wallet, but never leaves its memory. It should never be typed onto a desktop computer / smartphone as those environments are vulnerable to hacking by malware. You may write it down on paper temporarily in a private location, until you have a chance to secure the materials for stamping on metal.
-* You **MUST** practice recovery of your hardware wallet. Once you've written down, or stamped the recovery seed, wipe out your hardware wallet, then restore it to ensure you've copied the recovery seed correctly. **Do this before you send large amounts of funds to the hardware wallet**. And repeat this every time you duplicate your recovery seed onto a new medium. Don't expect an "untested" recovery seed will save you the day you need it.
+* You **MUST** practice recovery of your hardware wallet. Once you've written down, or stamped the recovery seed, wipe out your hardware wallet, then restore it to ensure you've copied the recovery seed correctly. **Do this before you send large amounts of funds to the hardware wallet**. And repeat this every time you duplicate your recovery seed onto a new medium. Don't expect an "untested" recovery seed will save you the day you need it. [Why you must test your recovery seed before sending large amount of funds](https://www.reddit.com/r/TREZOR/comments/7hbase/emergency_help_with_trezor/?sort=confidence)
 
 # Recovery Seed storage
 * By default, the 24 word recovery seed is the only thing required to access private keys. On the Trezor, there is an option to have an additional password, but I didn't enable this option. I don't trust myself to remember this password 10 years down the line. [Why I don't trust myself to use a passphrase on Trezor](https://www.reddit.com/r/TREZOR/comments/7dig01/help_urgently_requested_btc_seemingly_vanished/)
@@ -24,13 +24,23 @@ This page is meant to list conventional best practices on hold to hold crypto-cu
 * I have another set of plates in a separate geographical area, in a trusted location, should I completely lose access to my main location. Some people suggested safety deposit boxes, though there's some debate about how safe those are.
 * With this redundant approach, the only risk I'm exposed to is theft of the plates by someone motivated enough (and knowledgeable enough) to extract the funds. Given the risk profile of my geographical location, I rate this probability as low. 
 
-# Steel Plates
+# Titanium or Steel Plates
 
 Here is one way to stamp your recovery seed onto metal plates. Please scroll down to see <a href="#alternatives">alternative methods</a>.
 
 These steel plates are designed to have a BIP39 24 (or 25) word passphrase stamped onto them, using a letter punch kit, to allow recovery of crypto currency private keys. Whether for use with a software wallet, or a hardware wallet like the Trezor, having the recovery passphrase stamped onto corrosion-proof and fire-proof metal plates minimizes the risk of loss of private keys. You can see letter punching in action on this video, although with our plates we will punch the full BIP39 words using letters, not numbers: [ColdTI Punching Video](https://www.youtube.com/watch?v=xyaXxElM3aw).
 
-The plates can be ordered from [Lasergist](http://lasergist.com) using instructions below. They are laser-cut from 3mm stainless steel or any other thickness available on lasergist. Technically, the middle plate is the only one required and has laser markings indicating passphrase word ordering. By having additional plates cut, the passphrase can be hidden from sight and zipties can be added to prevent tampering. It also increases the weight of the whole assembly (close to 1kg with 3x 3mm plates) which helps prevent accidental misplacement.
+The stainless steel plates can be ordered from [Lasergist](http://lasergist.com) using instructions below. They are laser-cut from 3mm stainless steel or any other thickness available on lasergist. Technically, the middle plate is the only one required and has laser markings indicating passphrase word ordering. By having additional plates cut, the passphrase can be hidden from sight and zipties can be added to prevent tampering. It also increases the weight of the whole assembly (close to 1kg with 3x 3mm plates) which helps prevent accidental misplacement.
+
+The titanium plates were ordered as a custom-made item from [Calti Wallets](https://www.etsy.com/shop/caltiwallets) using the same designs available below, I believe he plans on making more of those available.
+
+**Titanium Grade 2, 2mm**
+
+![](http://res.cloudinary.com/photozzap/image/upload/c_scale,w_1024/v1507346680/steelplates-crytocurrency/P1044428.jpg)
+
+These plates should resist a 1600 °C / 3000 °F house fire. They are much harder to punch than the stainless steel ones, so I recommend a carbid tip engraver.
+
+**Stainless Steel (304), 3mm**
 
 ![](http://res.cloudinary.com/photozzap/image/upload/c_scale,w_1024/v1507346680/steelplates-crytocurrency/P1130023.jpg)
 
