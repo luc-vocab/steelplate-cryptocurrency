@@ -40,7 +40,7 @@ The titanium plates were ordered as a custom-made item from [Calti Wallets](http
 
 These plates should resist a 1600 °C / 3000 °F house fire. They are much harder to punch than the stainless steel ones, so I recommend a carbid tip engraver.
 
-**Stainless Steel (304), 3mm**
+**Stainless Steel (316L), 3mm**
 
 ![](http://res.cloudinary.com/photozzap/image/upload/c_scale,w_1024/v1507346680/steelplates-crytocurrency/P1130023.jpg)
 
