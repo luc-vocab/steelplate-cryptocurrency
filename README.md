@@ -24,6 +24,7 @@ This page is meant to list conventional best practices on hold to hold crypto-cu
 * Properly securing and storing your recovery seed is **much more important** than securing your hardware wallet. In fact you should treat your hardware wallet as a disposable, fragile device which can be lost, destroyed, or wiped out any time, but can be replaced with a small amount of money. Your recovery seed cannot be replaced. [Reddit user doesn't have recovery seed and is forced to perform trezor firmware update](https://www.reddit.com/r/TREZOR/comments/7diujk/pulled_out_my_trezor_wallet_after_a_year_but_now/)
 * I have another set of plates in a separate geographical area, in a trusted location, should I completely lose access to my main location. Some people suggested safety deposit boxes, though there's some debate about how safe those are.
 * With this redundant approach, the only risk I'm exposed to is theft of the plates by someone motivated enough (and knowledgeable enough) to extract the funds. Given the risk profile of my geographical location, I rate this probability as low. 
+* If you want to obscure the purpose of the plates, buy some more time in case of theft by an uneducated thief who doesn't understand crypto-currencies, you could coat your plate in plastidip. You can always peel it off if you need to read your seed, but it'll be a lot less obvious to a thief what to do with the plate. I haven't tried this method although it sounds like a good idea.
 
 # Titanium or Steel Plates
 
