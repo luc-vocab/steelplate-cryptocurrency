@@ -21,7 +21,7 @@ This page is meant to list conventional best practices on hold to hold crypto-cu
 # Recovery Seed storage
 * By default, the 24 word recovery seed is the only thing required to access private keys. On the Trezor, there is an option to have an additional password, but I didn't enable this option. I don't trust myself to remember this password 10 years down the line. [Why I don't trust myself to use a passphrase on Trezor](https://www.reddit.com/r/TREZOR/comments/7dig01/help_urgently_requested_btc_seemingly_vanished/)
 * This means keeping your recovery seed plates out of sight is extremely important. 
-* The current 316L stainless steel design has a melting point of 1400-1450 °C. This means it can survive even a sustained, severe house fire. [Reddit thread on metal survivability to house fires](https://www.reddit.com/r/metallurgy/comments/3vh4u4/best_metal_to_survive_a_house_fire/), [Blockplate fire survival video](https://www.youtube.com/watch?v=er9sgtDmz3k), [ColdTI Torch video](https://www.youtube.com/watch?v=-W3SUIi5WK0). I am in the process of securing Titanium Grade 2 versions which have an even higher melting point.
+* The current 316L stainless steel design has a melting point of 1400-1450 °C. This means it can survive even a sustained, severe house fire. [Reddit thread on metal survivability to house fires](https://www.reddit.com/r/metallurgy/comments/3vh4u4/best_metal_to_survive_a_house_fire/), [Blockplate fire survival video](https://www.youtube.com/watch?v=er9sgtDmz3k), [ColdTI Torch video](https://www.youtube.com/watch?v=-W3SUIi5WK0), [Stamping and fire resistance of brass, copper, aluminum](https://www.youtube.com/watch?v=TrB62cPPNxc). Titanium has a melting point of 1600 °C.
 * Properly securing and storing your recovery seed is **much more important** than securing your hardware wallet. In fact you should treat your hardware wallet as a disposable, fragile device which can be lost, destroyed, or wiped out any time, but can be replaced with a small amount of money. Your recovery seed cannot be replaced. [Reddit user doesn't have recovery seed and is forced to perform trezor firmware update](https://www.reddit.com/r/TREZOR/comments/7diujk/pulled_out_my_trezor_wallet_after_a_year_but_now/)
 * I have another set of plates in a separate geographical area, in a trusted location, should I completely lose access to my main location. Some people suggested safety deposit boxes, though there's some debate about how safe those are.
 * With this redundant approach, the only risk I'm exposed to is theft of the plates by someone motivated enough (and knowledgeable enough) to extract the funds. Given the risk profile of my geographical location, I rate this probability as low. 
@@ -41,7 +41,7 @@ The titanium plates were ordered as a custom-made item from [Calti Wallets](http
 
 ![](http://res.cloudinary.com/photozzap/image/upload/c_scale,w_1024/v1507346680/steelplates-crytocurrency/P1044428.jpg)
 
-These plates should resist a 1600 °C / 3000 °F house fire. They are much harder to punch than the stainless steel ones, so I recommend a carbid tip engraver.
+These plates should resist a 1600 °C / 3000 °F house fire. They are much harder to punch than the stainless steel ones, so I recommend a carbide tip engraver (see *additional hardware* below).
 
 **Stainless Steel (316L), 3mm**
 
@@ -106,6 +106,8 @@ If you ordered seperate plates and want to fasten them together, you may order t
 The 12mm screws are sufficient to hold 3x 3mm plates. If you have less plates, less thick, or more (perhaps you have different seeds for different coins), then you'll need to get different screws.
 
 Then additionally, you'll want the letter punch kit. I ordered this one from ebay: [letter punch kit](http://www.ebay.com/itm/36pcs-4mm-New-Stamps-Letters-Alphabet-Numbers-Set-Punch-Steel-Metal-Tool-Craft/142456142451?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649). The design on the plate is designed to accomodate words at least 8 characters long, with each letter 4mm x 4mm.
+
+If stamping proves difficult (I found it to be extremely difficult on the titanium grade 2 plates), you could use an electric Carbide Tip engraver such as this one [Carbide Tip engraver](https://www.ebay.com/itm/set-AC-220V-240V-13W-ELECTRIC-ENGRAVER-for-Etcher-Scribe-Carbide-Tip-Metal-Glass/132353790355?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
 
 Finally, you can order zip ties to prevent tampering with the seed.
 
