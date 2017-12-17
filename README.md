@@ -7,6 +7,7 @@ After following Bitcoin and Cryptocurrencies for a few years, one thing became v
 * [Bitcoin stolen from Blockchain.info wallet even with 2FA activated ](https://www.reddit.com/r/Bitcoin/comments/7cz9pu/bitcoin_stolen_from_blockchaininfo_wallet_even/)
 * [My $200,000 bitcoin odyssey, How I recovered cryptocurrency from a broken laptop](https://www.engadget.com/2017/12/05/how-not-to-store-your-bitcoins/)
 * [Lost Electrum password holding 10.5 BTC](https://www.reddit.com/r/Bitcoin/comments/7ijzt6/im_giving_away_05btc_to_whoever_finds_my_lost/)
+* [51 BTC locked up, can't remember seed/passphrase](https://www.reddit.com/r/TREZOR/comments/7kap89/51_btc_locked_up/)
 
 This page is meant to list conventional best practices on hold to hold crypto-currency in an secure manner. I'm open to feedback on this, please email [contact@bulletproofbitcoin.com](mailto:contact@bulletproofbitcoin.com). Full disclaimer: I have an affiliate link for [Trezor](https://shop.trezor.io?a=4d21757debfd) below.
 
