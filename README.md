@@ -124,6 +124,9 @@ Also if you like this design, feel free to send me a tip !
 ## Cryptosteel
 [cryptosteel.com](https://cryptosteel.com/)
 This is a reusable steel "container" which holds the first 4 letters of each of your BIP39 recovery seed words. It sounds like a great product, many people like it. The thing that worries me is that the words could be accidentally scrambled, which is impossible to do if the recovery seed has been stamped onto a plate of metal. Also, only including the first 4 letters, while sufficient according to the BIP39 spec (since the first 4 letters uniquely identifies the BIP39 word), seems like you would lose on some of the inherent "error correction" of having the full word written down (which would be more resilient against a single missing letter in my opinion).
+## Billfold
+[billfold.com](https://billfodl.com/)
+Similar to the Cryptosteel, but with laser printer letters, made from 316 steel, and cheaper.
 ## Blockplate
 [Blockplate](https://www.blockplate.com/)
 Stainless steel plate which uses an innovative method to store the recovery seed onto a grid, without needing a letter punch kit, only a single basic punch.
