@@ -37,7 +37,7 @@ These steel plates are designed to have a BIP39 24 (or 25) word passphrase stamp
 
 The stainless steel plates can be ordered from [Lasergist](http://lasergist.com) using instructions below. They are laser-cut from 3mm stainless steel or any other thickness available on lasergist. Technically, the middle plate is the only one required and has laser markings indicating passphrase word ordering. By having additional plates cut, the passphrase can be hidden from sight and zipties can be added to prevent tampering. It also increases the weight of the whole assembly (close to 1kg with 3x 3mm plates) which helps prevent accidental misplacement.
 
-The titanium plates were ordered as a custom-made item from [Calti Wallets](https://www.etsy.com/shop/caltiwallets) using the same designs available below, I believe he plans on making more of those available.
+The titanium plates were ordered as a custom-made item from [Calti Wallets](https://www.etsy.com/shop/caltiwallets) using the same designs available below, I believe he plans on making more of those available. Scroll down to see other places to buy similar products.
 
 **Titanium Grade 2, 2mm**
 
@@ -120,7 +120,13 @@ Also if you like this design, feel free to send me a tip !
 * **BTC: 39YGSE5M9b9ch4Xe4WHKRxyXVSm1cXmXZW**
 * **Litecoin: MFzrhQuRMz7KL9kj8VVVVSMPcs17Yn7YFD**
 
-# Alternatives
+# Alternatives / Where to order
+## Calti Wallets
+[Calti Wallets](https://www.etsy.com/shop/caltiwallets) 
+A variety of cryptocurrency seeds made from titanium. As titanium is hard to stamp, I recommend a carbide tip engraver. Also provides security seals (similar to zipties).
+## Hodlinox
+[hodlinox.com](https://hodlinox.com/)
+Stainless steel plates with interlocking tab.
 ## Cryptosteel
 [cryptosteel.com](https://cryptosteel.com/)
 This is a reusable steel "container" which holds the first 4 letters of each of your BIP39 recovery seed words. It sounds like a great product, many people like it. The thing that worries me is that the words could be accidentally scrambled, which is impossible to do if the recovery seed has been stamped onto a plate of metal. Also, only including the first 4 letters, while sufficient according to the BIP39 spec (since the first 4 letters uniquely identifies the BIP39 word), seems like you would lose on some of the inherent "error correction" of having the full word written down (which would be more resilient against a single missing letter in my opinion).
