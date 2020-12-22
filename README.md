@@ -11,6 +11,13 @@ After following Bitcoin and Cryptocurrencies for a few years, one thing became v
 
 This page is meant to list conventional best practices on hold to hold crypto-currency in an secure manner. I'm open to feedback on this, please email [contact@bulletproofbitcoin.com](mailto:contact@bulletproofbitcoin.com). Full disclaimer: I have an affiliate link for [Trezor](https://shop.trezor.io?a=4d21757debfd) below.
 
+# I just want the TL/DR
+* **Order** titanium plates from Calti Wallet:
+   * small: https://www.etsy.com/listing/590182325/crypto-currency-titanium-recovery-travel
+   * big: https://www.etsy.com/listing/590184927/big-crypto-currency-titanium-recovery
+* **Engrave** your recovery seed
+* **Test** your recovery process
+
 # Good practices
 * Holding your coins on an exchange, even a reputable one, even with 2FA enabled, is **risky**. Someone could impersonate you and steal your funds within minutes, while you are sleeping. The exchange could get hacked. You will not get your coins back if that happens. [Centralised Exchanges Are Terrible At Holding Your Money](https://blog.localethereum.com/centralised-exchanges-are-terrible-at-holding-your-money/)
 * The only sane way to store bitcoin / other crypto currencies is using a **hardware wallet**. Get yourself a [Trezor](https://shop.trezor.io?a=4d21757debfd) or [Nano Ledger S](https://www.ledgerwallet.com/). A hardware wallet allows you securely receive and perform crypto-currency transactions even on a malware-infested computer.
