@@ -128,6 +128,8 @@ Also if you like this design, feel free to send me a tip !
 * **Litecoin: MFzrhQuRMz7KL9kj8VVVVSMPcs17Yn7YFD**
 
 # Alternatives / Where to order
+## Reviews of metal cryptocurrency seeds
+[Metal Bitcoin Storage Reviews](https://jlopp.github.io/metal-bitcoin-storage-reviews/)
 ## Crypto Tag
 [Crypto Tag](https://cryptotag.io/)
 An all in one solution with hammer, stamping kit, letter bits. The bit holder looks quite convenient, as from experience stamping manually is quite a bit of work. A very nice looking, premium solution, with a higher price tag than other alternatives in this list.
