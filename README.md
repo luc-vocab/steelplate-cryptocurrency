@@ -13,7 +13,7 @@ This page is meant to list conventional best practices on hold to hold crypto-cu
 
 # I just want the TL/DR
 * **Order** titanium plates from Calti Wallet:
-   * [Small Crypto-currency Titanium Recovery Seed](https://www.etsy.com/listing/590182325/crypto-currency-titanium-recovery-travel)
+   * [Small Crypto-currency Titanium Recovery Seed](https://www.amazon.com/dp/B095SHNJTL?ref=myi_title_dp)
    * [Big Crypto-currency Titanium Recovery Seed](https://www.etsy.com/listing/590184927/big-crypto-currency-titanium-recovery)
 * **Engrave** your recovery seed
 * **Test** your recovery process
